@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["marcus@ahnve.com"]
   s.homepage    = ""
   s.summary     = %q{cli interface to issuetracker}
-  s.description = %q{TODO: Write a gem description}
+  s.description = %q{allows devs to access issuetracker from command line}
 
   s.rubyforge_project = "simell"
 
