@@ -1,1 +1,2 @@
-echo "A new feature successfully added to request queue"
+#! /usr/bin/env ruby
+puts "A new feature successfully added to request queue"

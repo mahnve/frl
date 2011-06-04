@@ -3,6 +3,7 @@ Feature: Request feature
   In order to add work to the queue
   A user can request a feature
 
+    @announce
     Scenario: Request vanilla feature
 
       When I run `simell req A new feature`
